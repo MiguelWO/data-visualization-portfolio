@@ -1,0 +1,142 @@
+[
+    {
+        "symbol": "AAPL",
+        "date": "04/28/2023",
+        "price": "168.41",
+        "change": "+4.65",
+        "changePercent": "(+2.84%)"
+    },
+    {
+        "symbol": "AMZN",
+        "date": "04/28/2023",
+        "price": "109.82",
+        "change": "+4.84",
+        "changePercent": "(+4.61%)"
+    },
+    {
+        "symbol": "GOOG",
+        "date": "04/28/2023",
+        "price": "108.37",
+        "change": "+3.92",
+        "changePercent": "(+3.75%)"
+    },
+    {
+        "symbol": "FB",
+        "date": "04/28/2023",
+        "price": "238.56",
+        "change": "+29.16",
+        "changePercent": "(+13.93%)"
+    },
+    {
+        "symbol": "TSLA",
+        "date": "04/28/2023",
+        "price": "160.19",
+        "change": "+6.44",
+        "changePercent": "(+4.19%)"
+    },
+    {
+        "symbol": "NFLX",
+        "date": "04/28/2023",
+        "price": "325.85",
+        "change": "+4.70",
+        "changePercent": "(+1.46%)"
+    },
+    {
+        "symbol": "MSFT",
+        "date": "04/28/2023",
+        "price": "304.83",
+        "change": "+9.46",
+        "changePercent": "(+3.20%)"
+    },
+    {
+        "symbol": "NVDA",
+        "date": "04/28/2023",
+        "price": "272.26",
+        "change": "+2.70",
+        "changePercent": "(+1.00%)"
+    },
+    {
+        "symbol": "JPM",
+        "date": "04/28/2023",
+        "price": "137.05",
+        "change": "+1.82",
+        "changePercent": "(+1.35%)"
+    },
+    {
+        "symbol": "V",
+        "date": "04/28/2023",
+        "price": "229.01",
+        "change": "+0.86",
+        "changePercent": "(+0.38%)"
+    },
+    {
+        "symbol": "MA",
+        "date": "04/28/2023",
+        "price": "373.67",
+        "change": "+6.91",
+        "changePercent": "(+1.88%)"
+    },
+    {
+        "symbol": "BABA",
+        "date": "04/28/2023",
+        "price": "84.47",
+        "change": "+1.65",
+        "changePercent": "(+1.99%)"
+    },
+    {
+        "symbol": "WMT",
+        "date": "04/28/2023",
+        "price": "151.38",
+        "change": "+0.47",
+        "changePercent": "(+0.31%)"
+    },
+    {
+        "symbol": "JNJ",
+        "date": "04/28/2023",
+        "price": "163.00",
+        "change": "+0.38",
+        "changePercent": "(+0.23%)"
+    },
+    {
+        "symbol": "XOM",
+        "date": "04/28/2023",
+        "price": "116.83",
+        "change": "+1.38",
+        "changePercent": "(+1.20%)"
+    },
+    {
+        "symbol": "BRK-A",
+        "date": "04/28/2023",
+        "price": "499,700.03",
+        "change": "+8,200.03",
+        "changePercent": "(+1.67%)"
+    },
+    {
+        "symbol": "BAC",
+        "date": "04/28/2023",
+        "price": "28.89",
+        "change": "+0.45",
+        "changePercent": "(+1.58%)"
+    },
+    {
+        "symbol": "PG",
+        "date": "04/28/2023",
+        "price": "156.47",
+        "change": "+1.89",
+        "changePercent": "(+1.22%)"
+    },
+    {
+        "symbol": "VZ",
+        "date": "04/28/2023",
+        "price": "38.79",
+        "change": "+1.87",
+        "changePercent": "(+5.07%)"
+    },
+    {
+        "symbol": "DIS",
+        "date": "04/28/2023",
+        "price": "99.93",
+        "change": "+3.32",
+        "changePercent": "(+3.44%)"
+    }
+]
